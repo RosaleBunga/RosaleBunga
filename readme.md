@@ -6,7 +6,7 @@ Call me "Unge", 16 y.o high school student.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:bunga@emailmu.ini) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instagram.com/rosalebunga) ![](https://dcbadge.vercel.app/api/shield/694850450410700831?theme=clean)
+)](https://instagram.com/rosalebunga)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/rosale-bunga-nathaniela-jatmiko-003732215)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rainwslymlf)
 
